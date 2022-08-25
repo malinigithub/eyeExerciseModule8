@@ -10,12 +10,12 @@ In this exercise, the code is provided for - one eye movement to match the mouse
 1. Download the files, 
 2. Open the index.html in a browser window to execute this project. 
 
-# Future Improvements:
-Currently no enhancements planned for this project.
-
 # Image: 
 
 <img src="images/eyeExercise.png" alt="A really cross looking eye :)"> </a>
+
+# Future Improvements:
+Currently no enhancements planned for this project.
 
 # License Information: 
 MIT License
