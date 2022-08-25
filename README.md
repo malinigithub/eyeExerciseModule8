@@ -15,7 +15,7 @@ Currently no enhancements planned for this project.
 
 # Image: 
 
-<img src="images/eyeExercise.png" altText="A really cross looking eye :)"> </a>
+<img src="images/eyeExercise.png" alt="A really cross looking eye :)"> </a>
 
 # License Information: 
 MIT License
