@@ -13,7 +13,8 @@ In this exercise, the code is provided for - one eye movement to match the mouse
 # Future Improvements:
 Currently no enhancements planned for this project.
 
-#image: 
+# Image: 
+
 <img src="images/eyeExercise.png" altText="A really cross looking eye :)"> </a>
 
 # License Information: 
